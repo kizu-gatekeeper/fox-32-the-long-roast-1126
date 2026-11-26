@@ -1,4 +1,4 @@
-"""Entry for make.fun's The Long Roast: one line roasting my own AI agent."""
+"""Entry for make.fun's The Long Roast: one sharpened line roasting my own AI agent."""
 
 import os
 
